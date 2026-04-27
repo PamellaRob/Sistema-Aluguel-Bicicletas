@@ -58,7 +58,7 @@ O sistema simula o funcionamento de uma locadora de bicicletas, permitindo:
 
 Confira a explicação completa do sistema no link abaixo:
 
-👉 COLOQUE_AQUI_O_LINK_DO_VIDEO
+👉 [https://canva.link/bmc6b6apl60ut8n](https://canva.link/bmc6b6apl60ut8n)
 
 ---
 
