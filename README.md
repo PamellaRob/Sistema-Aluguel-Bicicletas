@@ -70,4 +70,4 @@ bicicleta. Usada na tela **Devolver Bicicleta**.
    `python src/main.py` (terminal). Login: `admin` / `1234`.
 
 ## Vídeo explicativo
-🎥 <link do vídeo aqui>
+🎥 [Clique para acessar o vídeo](https://drive.google.com/file/d/1UIx3DXbMWqK2EkLIgDlERAf-SMiJx29G/view?usp=drive_link)
